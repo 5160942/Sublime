@@ -1,0 +1,17 @@
+<html>
+<head>
+</head>
+<body>
+	<script>
+		var arr = ['string',32,['sub','array'],{object:true},242];
+		function printArr(arr) {
+		console.log(arr.length);
+			for( x of arr) {
+			x += 1;
+			console.log(x);
+			}
+	};
+		printArr(arr);
+	</script>
+</body>
+</html>

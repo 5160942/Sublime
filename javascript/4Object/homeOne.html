@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+
+<script>
+var obj = {num :2};
+
+var addToThis = function() {
+  var value = 0;
+  console.log("arguments length" + arguments.length);
+  for (var i = 0; i < arguments.length; i++) {
+    value += arguments[i];
+  }
+return this.num + value;
+};
+
+</script>
+
+	<script src = "PublicPrivateProperties.js"></script>
+	<script type="text/javascript" src="objectOne.js"></script>
+</body>

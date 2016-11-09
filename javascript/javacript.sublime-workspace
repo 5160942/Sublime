@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"testOjbFu",
+				"testObjFunc"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"s",
+				"scope_name"
+			],
+			[
+				"pa",
+				"parseRequest"
+			],
+			[
+				"bo",
+				"body\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 284.0,
+		"last_filter": "javascr",
+		"selected_items":
+		[
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"console.log(\"hello\");"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/chris/Google Drive/sublime"
+	],
+	"file_history":
+	[
+		"/C/Users/chris/Google Drive/sublime/3DataStructures/arrays",
+		"/C/Users/chris/Documents/index.html",
+		"/C/Users/chris/Documents/app.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/closure/closure.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/closure/closure2.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/closure/home.html",
+		"/C/Users/chris/Documents/Sublime/2Functions/Functions.sublime-project",
+		"/C/Users/chris/Documents/Sublime/2Functions/this/home.html",
+		"/C/Users/chris/Documents/Sublime/2Functions/this/this.sublime-project",
+		"/C/Users/chris/Documents/Sublime/2Functions/scope/functionDec.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/scope/scope.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/scope/home.html",
+		"/C/Users/chris/Documents/Sublime/2Functions/scope/helloWorld.java",
+		"/C/Users/chris/Documents/sublime/2Functions/functionsAsData/home.html",
+		"/C/Users/chris/Documents/sublime/2Functions/hello/test.html",
+		"/C/Users/chris/Documents/sublime/2Functions/hello/hello.js",
+		"/C/Users/chris/Documents/sublime/2Functions/functionsAsData/validate.js",
+		"/C/Users/chris/Documents/sublime/2Functions/functionsAsData/validate1.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/functionsAsData/validate2.js",
+		"/C/Users/chris/Documents/sublime/2Functions/hello/hello.sublime-project",
+		"/C/Users/chris/Documents/Sublime/2Functions/functionsAsData/home.html",
+		"/C/Users/chris/Documents/Sublime/2Functions/functionsAsData/validate.js",
+		"/C/Users/chris/Documents/Sublime/2Functions/functionsAsData/validate1.js",
+		"/C/Users/chris/Documents/sublime/2Functions/hello.js",
+		"/C/Users/chris/Documents/sublime/2Functions/test.html",
+		"/C/Users/chris/sublimeWorkspace/javascript/home.html",
+		"/C/Users/chris/sublimeWorkspace/javascript/test.js",
+		"/C/Users/chris/AppData/Roaming/Sublime Text 3/Packages/User/test.js",
+		"/C/Users/chris/AppData/Roaming/Sublime Text 3/Packages/User/home.html",
+		"/C/Users/chris/AppData/Roaming/Sublime Text 3/Packages/User/project1.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "javacript.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helllo",
+				"hello\\hello.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
