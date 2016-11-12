@@ -23,16 +23,3 @@ $(document).ready(function() {
 	$('#news').addClass('zebra');
 	$('#news .spoiler').css('font-size','20px');
 });
-
-$(document).ready(function() {
-		$('#disclaimer').hide();
-		$('#hideButton').click(function() {
-			$('#disclaimer').hide();
-		});
-});
-
-$(document).ready(function() {
-	$('#showButton').click(function() {
-		$('#disclaimer').show();
-	})
-});
