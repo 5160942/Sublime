@@ -1,0 +1,23 @@
+
+
+#news {
+	background-color: #FFEBCD;
+	color:black;
+}
+
+.even {
+	background-color: #ADFF2F;
+}
+
+.hover {
+	background-color: #FFFACD;
+}
+
+.zebra { 
+  background-color: #dddddd;
+  color: #666666;
+}
+
+.zebraHover {
+  background-color: #FFFACD;
+}

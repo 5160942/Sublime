@@ -1,0 +1,41 @@
+
+#head {
+	padding-left: 20px;
+}
+
+#navigation {	
+	width: 100%;
+}
+
+#navigation ul {
+	margin: 0;
+	padding: 0;
+	border: 2px solid #73AD21;
+}
+
+#navigation li {
+	display: inline-block;
+}
+
+#navigation li:hover {
+	background-color: yellow;
+}
+
+#navigation a {
+	color: #015287;
+	display: inline-block;
+	padding: 5px;
+	text-decoration: none;
+}
+
+#navigation_blob {
+	top: 0;
+	background-color: #c0ffee;
+	position: absolute;
+	z-index: -1;
+}
+
+#intro {
+	clear: both;
+	margin-top: 10px;
+}
